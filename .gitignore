@@ -1,0 +1,22 @@
+# System Health Report Automation
+
+# Generated reports
+system_report.txt
+linux.txt
+*.txt
+*.log
+
+# Secrets
+.env
+
+# Batch file with credentials
+run_system_report.bat
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Editor / OS files
+.vscode/
+Thumbs.db
+.DS_Store
