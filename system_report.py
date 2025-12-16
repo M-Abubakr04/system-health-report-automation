@@ -6,8 +6,8 @@ from datetime import datetime
 import time
 import platform
 
-my_email="devsecoperations04@gmail.com"  #Enter your own email id here. Best practice is to use centralized method
-my_app_password="bwft cyek ylhe qvwg"  #Generate your app_password via gmail
+my_email=""  #Enter your own email id here. Best practice is to use centralized method
+my_app_password=""  #Generate your app_password via gmail
 
 msg=EmailMessage()
 msg['Subject']="Today's system Report"
